@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# User-specific files
+*.user
+*.suo
+
+# Windows files
+Thumbs.db
